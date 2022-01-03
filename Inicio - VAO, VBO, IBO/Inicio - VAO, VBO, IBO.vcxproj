@@ -24,7 +24,7 @@
     <ProjectGuid>{6da3fa73-2685-4da8-84ba-fffc5c24686b}</ProjectGuid>
     <RootNamespace>InicioVAOVBOIBO</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Inicio - VAO, VBO</ProjectName>
+    <ProjectName>Inicio - VAO, VBO, IBO</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
